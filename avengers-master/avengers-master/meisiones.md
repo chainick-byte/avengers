@@ -1,5 +1,5 @@
-conquistar el mundo !!! de momento
-destriuir a superman!!!
+1. Conquistar el mundo !!! de momento
+2. Destriuir a superman!!!
 <!--se olvido añadir la mision de destriur la luna -->
-en el github se ven comentarios html ? 
-matar a bill finalmente!!!!
+<!--en el github se ven comentarios html ? -->
+3. Matar a bill finalmente!!!!
